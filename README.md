@@ -51,13 +51,13 @@ gcv -emails "work@example.com,personal@example.com" ~/projects
 ## Installation
 
 ```bash
-go install github.com/is386/gcv@latest
+go install github.com/1nderr/gcv@latest
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/is386/gcv.git
+git clone https://github.com/1nderr/gcv.git
 cd gcv
 go build -o gcv .
 ```
